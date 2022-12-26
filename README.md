@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Brian-McIntosh
-- 👀 I’m interested in iOS Development (Swift/SwiftUI), Augmented Reality, and Photogrammetry (for creating interactive 3D models)
+- 👀 I’m interested in iOS Development (Swift/SwiftUI), UI/UX, Augmented Reality, and Photogrammetry (for creating interactive 3D models)
 - 🌱 I’m currently learning Core Data and Modern Networking
 - 💞️ I’m looking to collaborate on: Designing and Building Apps for the iOS Ecosystem (iPhone, iPad, Apple Watch, Apple TV)
 - 📫 How to reach me: brian@mixinteractive.com
